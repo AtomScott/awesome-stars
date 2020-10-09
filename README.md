@@ -117,6 +117,7 @@
 
 ## Shell 
 
+- [awesome-stars](https://github.com/AtomScott/awesome-stars) - A curated list of my GitHub stars!
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 
