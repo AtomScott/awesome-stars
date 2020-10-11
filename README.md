@@ -26,6 +26,7 @@
 
 ## HTML 
 
+- [CVPR2018_Survey](https://github.com/cvpaperchallenge/CVPR2018_Survey) - cvpaper.challenge working repository for surveying all papers of CVPR 2018
 - [awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 
 ## JavaScript 
