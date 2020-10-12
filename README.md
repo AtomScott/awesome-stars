@@ -62,6 +62,7 @@
 
 ## Python 
 
+- [cnn-registration](https://github.com/yzhq97/cnn-registration) - A image registration method using convolutional neural network features.
 - [sktime-dl](https://github.com/sktime/sktime-dl) - sktime companion package for deep learning based on TensorFlow
 - [sktime](https://github.com/alan-turing-institute/sktime) - A unified toolbox for machine learning with time series
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
