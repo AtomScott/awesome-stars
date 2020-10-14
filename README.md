@@ -37,6 +37,7 @@
 
 ## Jupyter Notebook 
 
+- [Graph_Transformer_Networks](https://github.com/seongjunyun/Graph_Transformer_Networks) - Graph Transformer Networks (Authors' PyTorch implementation for the NeurIPS 19 paper)
 - [qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [Last-Row](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) - Last row tracking data and code
@@ -62,6 +63,8 @@
 
 ## Python 
 
+- [big_transfer](https://github.com/google-research/big_transfer) - Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
+- [HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network
 - [cnn-registration](https://github.com/yzhq97/cnn-registration) - A image registration method using convolutional neural network features.
 - [sktime-dl](https://github.com/sktime/sktime-dl) - sktime companion package for deep learning based on TensorFlow
 - [sktime](https://github.com/alan-turing-institute/sktime) - A unified toolbox for machine learning with time series
