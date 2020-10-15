@@ -63,6 +63,7 @@
 
 ## Python 
 
+- [core_rl](https://github.com/djbyrne/core_rl) - Repo of core reinforcement learning algorithms and explanations using pytorch lightning
 - [big_transfer](https://github.com/google-research/big_transfer) - Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
 - [HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network
 - [cnn-registration](https://github.com/yzhq97/cnn-registration) - A image registration method using convolutional neural network features.
