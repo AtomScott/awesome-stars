@@ -63,6 +63,7 @@
 
 ## Python 
 
+- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [core_rl](https://github.com/djbyrne/core_rl) - Repo of core reinforcement learning algorithms and explanations using pytorch lightning
