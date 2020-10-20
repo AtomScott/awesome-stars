@@ -37,6 +37,7 @@
 
 ## Jupyter Notebook 
 
+- [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [Graph_Transformer_Networks](https://github.com/seongjunyun/Graph_Transformer_Networks) - Graph Transformer Networks (Authors' PyTorch implementation for the NeurIPS 19 paper)
 - [qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
