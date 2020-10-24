@@ -37,6 +37,7 @@
 
 ## Jupyter Notebook 
 
+- [Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - Repository for NeurIPS 2020 Spotlight  "AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients"
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [Graph_Transformer_Networks](https://github.com/seongjunyun/Graph_Transformer_Networks) - Graph Transformer Networks (Authors' PyTorch implementation for the NeurIPS 19 paper)
 - [qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
@@ -64,6 +65,9 @@
 
 ## Python 
 
+- [DE_KFE](https://github.com/kevintab95/DE_KFE) - Key Frame Extraction using Differential Evolution
+- [video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
+- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [chainerrl](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
