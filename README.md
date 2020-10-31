@@ -148,6 +148,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-kite](https://github.com/kiteco/jupyterlab-kite) - Kite Autocomplete Extension for JupyterLab
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
