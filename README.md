@@ -8,6 +8,7 @@
   - [C++](#c++)
   - [HTML](#html)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [MATLAB](#matlab)
   - [Others](#others)
@@ -34,6 +35,10 @@
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [vue-cli-plugin-auto-routing](https://github.com/ktsn/vue-cli-plugin-auto-routing) - Automatically resolve pages and layouts routing
 - [soccer-visor](https://github.com/AtomScott/soccer-visor) - 主専攻実験 soccer visor
+
+## Julia 
+
+- [AutocorrelationShell.jl](https://github.com/ShozenD/AutocorrelationShell.jl) - Julia implementation of Autocorrelation Wavelets.
 
 ## Jupyter Notebook 
 
