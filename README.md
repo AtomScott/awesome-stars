@@ -70,6 +70,7 @@
 
 ## Python 
 
+- [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [DE_KFE](https://github.com/kevintab95/DE_KFE) - Key Frame Extraction using Differential Evolution
 - [video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
 - [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
