@@ -71,6 +71,7 @@
 
 ## Python 
 
+- [Spectral-Trajectory-and-Behavior-Prediction](https://github.com/rohanchandra30/Spectral-Trajectory-and-Behavior-Prediction) - This is the code base for Trajectory and Driver Behavior Prediction in Autonomous Vehicles using Spectral Graph Theory
 - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [DE_KFE](https://github.com/kevintab95/DE_KFE) - Key Frame Extraction using Differential Evolution
 - [video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
