@@ -21,6 +21,7 @@
 
 ## C++ 
 
+- [cvxpy](https://github.com/cvxgrp/cvxpy) - A Python-embedded modeling language for convex optimization problems.
 - [Real-time-Video-Mosaic](https://github.com/jahaniam/Real-time-Video-Mosaic) - An implementation of automatic panorama using OpenCV in C++ and Python
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [lycon](https://github.com/ethereon/lycon) - A minimal and fast image library for Python and C++
@@ -71,6 +72,7 @@
 
 ## Python 
 
+- [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Differentiable convex optimization layers
 - [Spectral-Trajectory-and-Behavior-Prediction](https://github.com/rohanchandra30/Spectral-Trajectory-and-Behavior-Prediction) - This is the code base for Trajectory and Driver Behavior Prediction in Autonomous Vehicles using Spectral Graph Theory
 - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [DE_KFE](https://github.com/kevintab95/DE_KFE) - Key Frame Extraction using Differential Evolution
