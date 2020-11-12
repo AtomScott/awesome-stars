@@ -72,6 +72,7 @@
 
 ## Python 
 
+- [NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
 - [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Differentiable convex optimization layers
 - [Spectral-Trajectory-and-Behavior-Prediction](https://github.com/rohanchandra30/Spectral-Trajectory-and-Behavior-Prediction) - This is the code base for Trajectory and Driver Behavior Prediction in Autonomous Vehicles using Spectral Graph Theory
 - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
@@ -158,6 +159,7 @@
 
 ## TypeScript 
 
+- [notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [jupyterlab-kite](https://github.com/kiteco/jupyterlab-kite) - Kite Autocomplete Extension for JupyterLab
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
