@@ -72,6 +72,7 @@
 
 ## Python 
 
+- [mmskeleton](https://github.com/open-mmlab/mmskeleton) - A OpenMMLAB toolbox  for human pose estimation, skeleton-based action recognition, and action synthesis.
 - [NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
 - [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Differentiable convex optimization layers
 - [Spectral-Trajectory-and-Behavior-Prediction](https://github.com/rohanchandra30/Spectral-Trajectory-and-Behavior-Prediction) - This is the code base for Trajectory and Driver Behavior Prediction in Autonomous Vehicles using Spectral Graph Theory
