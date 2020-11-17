@@ -43,6 +43,7 @@
 
 ## Jupyter Notebook 
 
+- [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - Repository for NeurIPS 2020 Spotlight  "AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients"
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [Graph_Transformer_Networks](https://github.com/seongjunyun/Graph_Transformer_Networks) - Graph Transformer Networks (Authors' PyTorch implementation for the NeurIPS 19 paper)
@@ -72,6 +73,14 @@
 
 ## Python 
 
+- [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
+- [pyannote-video](https://github.com/pyannote/pyannote-video) - Face detection, tracking and clustering in videos
+- [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
+- [lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) - Real-time 3D multi-person pose estimation demo in PyTorch. OpenVINO backend can be used for fast inference on CPU.
+- [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more
+- [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+- [nba-movement-data](https://github.com/sealneaward/nba-movement-data) - SportVU movement tracking data.
+- [trajminer](https://github.com/trajminer/trajminer) - Trajectory Mining Library
 - [mmskeleton](https://github.com/open-mmlab/mmskeleton) - A OpenMMLAB toolbox  for human pose estimation, skeleton-based action recognition, and action synthesis.
 - [NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
 - [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Differentiable convex optimization layers
