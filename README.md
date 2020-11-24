@@ -99,7 +99,7 @@
 - [HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network
 - [cnn-registration](https://github.com/yzhq97/cnn-registration) - A image registration method using convolutional neural network features.
 - [sktime-dl](https://github.com/sktime/sktime-dl) - sktime companion package for deep learning based on TensorFlow
-- [sktime](https://github.com/alan-turing-institute/sktime) - A unified toolbox for machine learning with time series
+- [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
 - [semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation) - Nvidia Semantic Segmentation monorepo
 - [PythonSIFT](https://github.com/rmislam/PythonSIFT) - A clean and concise Python implementation of SIFT (Scale-Invariant Feature Transform)
@@ -156,6 +156,7 @@
 
 ## Shell 
 
+- [avspeech-downloader](https://github.com/changil/avspeech-downloader) - AVSpeech downloader
 - [awesome-stars](https://github.com/AtomScott/awesome-stars) - A curated list of my GitHub stars!
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
