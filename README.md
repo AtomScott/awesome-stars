@@ -43,6 +43,7 @@
 
 ## Jupyter Notebook 
 
+- [py-subspace](https://github.com/ComputerVisionLaboratory/py-subspace) - A fresh open-(lab)-source repo with various implementations of Subspace Methods, notebook examples and documentation.
 - [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - Repository for NeurIPS 2020 Spotlight  "AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients"
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
