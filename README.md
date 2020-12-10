@@ -43,6 +43,7 @@
 
 ## Jupyter Notebook 
 
+- [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [py-subspace](https://github.com/ComputerVisionLaboratory/py-subspace) - A fresh open-(lab)-source repo with various implementations of Subspace Methods, notebook examples and documentation.
 - [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - Repository for NeurIPS 2020 Spotlight  "AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients"
@@ -61,6 +62,7 @@
 
 ## Others 
 
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [awesome-affective-computing](https://github.com/AmrMKayid/awesome-affective-computing) - A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources
 - [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [papers-with-annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations) - Research papers with annotations, illustrations and explanations
@@ -74,6 +76,9 @@
 
 ## Python 
 
+- [torchdata](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
+- [robust-pca](https://github.com/dganguli/robust-pca) - A simple Python implementation of R-PCA
+- [imutils](https://github.com/jrosebr1/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [pyannote-video](https://github.com/pyannote/pyannote-video) - Face detection, tracking and clustering in videos
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
