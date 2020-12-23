@@ -76,6 +76,7 @@
 
 ## Python 
 
+- [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool) - 🥧 A tool for removing background from photos with neural networks 🥧
 - [FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [torchdata](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
 - [robust-pca](https://github.com/dganguli/robust-pca) - A simple Python implementation of R-PCA
