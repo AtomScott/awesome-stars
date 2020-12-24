@@ -76,6 +76,7 @@
 
 ## Python 
 
+- [FractalDB](https://github.com/hirokatsukataoka16/FractalDB) - Pretraining without Natural Images (ACCV 2020 Oral)
 - [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool) - 🥧 A tool for removing background from photos with neural networks 🥧
 - [FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [torchdata](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
