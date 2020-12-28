@@ -76,6 +76,8 @@
 
 ## Python 
 
+- [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
+- [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [FractalDB](https://github.com/hirokatsukataoka16/FractalDB) - Pretraining without Natural Images (ACCV 2020 Oral)
 - [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool) - 🥧 A tool for removing background from photos with neural networks 🥧
 - [FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
