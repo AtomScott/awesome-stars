@@ -125,7 +125,7 @@
 - [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [pytorch-soundnet](https://github.com/keunhong/pytorch-soundnet) - 
 - [Multitask-Emotion-Recognition-with-Incomplete-Labels](https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels) - This is the repository containing the solution for FG-2020 ABAW Competition
-- [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
+- [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [pfrl](https://github.com/pfnet/pfrl) - PFRL: a PyTorch-based deep reinforcement learning library
 - [pytorch-lightning-bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
