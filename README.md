@@ -116,7 +116,7 @@
 - [PythonSIFT](https://github.com/rmislam/PythonSIFT) - A clean and concise Python implementation of SIFT (Scale-Invariant Feature Transform)
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
-- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals
 - [openpifpaf](https://github.com/vita-epfl/openpifpaf) - Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
