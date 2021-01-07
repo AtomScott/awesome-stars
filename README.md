@@ -76,6 +76,9 @@
 
 ## Python 
 
+- [vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+- [torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
+- [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [FractalDB](https://github.com/hirokatsukataoka16/FractalDB) - Pretraining without Natural Images (ACCV 2020 Oral)
