@@ -76,6 +76,7 @@
 
 ## Python 
 
+- [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) - [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
 - [vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
 - [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
