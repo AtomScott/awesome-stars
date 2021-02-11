@@ -34,6 +34,7 @@
 
 ## JavaScript 
 
+- [isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [vue-cli-plugin-auto-routing](https://github.com/ktsn/vue-cli-plugin-auto-routing) - Automatically resolve pages and layouts routing
 - [soccer-visor](https://github.com/AtomScott/soccer-visor) - 主専攻実験 soccer visor
@@ -80,6 +81,7 @@
 
 ## Python 
 
+- [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [TamakEriFever](https://github.com/YuriCat/TamakEriFever) - AI for google research football
 - [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) - [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
