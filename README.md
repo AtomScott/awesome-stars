@@ -45,6 +45,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
@@ -66,6 +67,7 @@
 
 ## Others 
 
+- [awesome-deep-neuroevolution](https://github.com/Alro10/awesome-deep-neuroevolution) - A collection of Deep Neuroevolution resources or evolutionary algorithms applying in Deep Learning (constantly updating)
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [awesome-affective-computing](https://github.com/AmrMKayid/awesome-affective-computing) - A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources
