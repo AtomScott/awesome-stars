@@ -45,6 +45,7 @@
 
 ## Jupyter Notebook 
 
+- [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
