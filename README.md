@@ -84,6 +84,9 @@
 
 ## Python 
 
+- [RAFT](https://github.com/princeton-vl/RAFT) - 
+- [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
+- [sam](https://github.com/davda54/sam) - SAM: Sharpness-Aware Minimization (PyTorch)
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
 - [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
