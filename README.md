@@ -84,6 +84,9 @@
 
 ## Python 
 
+- [review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) - Review on Object Detection Metrics: 14 object detection metrics including COCO's and PASCAL's metrics. Supporting different bounding box formats.
+- [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) - Most popular metrics used to evaluate object detection algorithms.
+- [loss-landscape](https://github.com/tomgoldstein/loss-landscape) - Code for visualizing the loss landscape of neural nets
 - [RAFT](https://github.com/princeton-vl/RAFT) - 
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
 - [sam](https://github.com/davda54/sam) - SAM: Sharpness-Aware Minimization (PyTorch)
