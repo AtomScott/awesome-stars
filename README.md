@@ -45,6 +45,7 @@
 
 ## Jupyter Notebook 
 
+- [Scale-invariant-CNNs](https://github.com/wsgdrfz/Scale-invariant-CNNs) - Study the Scale Invariance or Equivariance Convolutional Neural Network
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -68,6 +69,7 @@
 
 ## Others 
 
+- [survey](https://github.com/ComputerVisionLaboratory/survey) - 
 - [awesome-deep-neuroevolution](https://github.com/Alro10/awesome-deep-neuroevolution) - A collection of Deep Neuroevolution resources or evolutionary algorithms applying in Deep Learning (constantly updating)
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
