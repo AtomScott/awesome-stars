@@ -145,7 +145,7 @@
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals
-- [openpifpaf](https://github.com/vita-epfl/openpifpaf) - Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
+- [openpifpaf](https://github.com/vita-epfl/openpifpaf) - Official implementation of "OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association" in PyTorch.
 - [spl](https://github.com/eth-ait/spl) - Structured Prediction Helps 3D Human Motion Modelling - ICCV '19
 - [fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
 - [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
@@ -153,7 +153,7 @@
 - [Multitask-Emotion-Recognition-with-Incomplete-Labels](https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels) - This is the repository containing the solution for FG-2020 ABAW Competition
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [pfrl](https://github.com/pfnet/pfrl) - PFRL: a PyTorch-based deep reinforcement learning library
-- [pytorch-lightning-bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
+- [lightning-bolts](https://github.com/PyTorchLightning/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks
