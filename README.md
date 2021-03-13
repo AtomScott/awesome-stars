@@ -86,6 +86,7 @@
 
 ## Python 
 
+- [goturn-pytorch](https://github.com/nrupatunga/goturn-pytorch) - GOTURN tracking implemented in PyTorch
 - [d3s](https://github.com/alanlukezic/d3s) - D3S - Discriminative Single Shot Segmentation Tracker (CVPR 2020)
 - [model_search](https://github.com/google/model_search) - 
 - [review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) - Review on Object Detection Metrics: 14 object detection metrics including COCO's and PASCAL's metrics. Supporting different bounding box formats.
