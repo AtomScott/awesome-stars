@@ -45,6 +45,7 @@
 
 ## Jupyter Notebook 
 
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [Scale-invariant-CNNs](https://github.com/wsgdrfz/Scale-invariant-CNNs) - Study the Scale Invariance or Equivariance Convolutional Neural Network
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [google-research](https://github.com/google-research/google-research) - Google Research
