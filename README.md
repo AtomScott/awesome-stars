@@ -87,6 +87,7 @@
 
 ## Python 
 
+- [gpu_dbscan](https://github.com/karthikv2k/gpu_dbscan) - GPU version of DBSCAN using FB's faiss
 - [pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [goturn-pytorch](https://github.com/nrupatunga/goturn-pytorch) - GOTURN tracking implemented in PyTorch
 - [d3s](https://github.com/alanlukezic/d3s) - D3S - Discriminative Single Shot Segmentation Tracker (CVPR 2020)
