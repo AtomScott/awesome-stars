@@ -198,6 +198,7 @@
 
 ## Shell 
 
+- [zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line!
 - [avspeech-downloader](https://github.com/changil/avspeech-downloader) - AVSpeech downloader
 - [awesome-stars](https://github.com/AtomScott/awesome-stars) - A curated list of my GitHub stars!
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
