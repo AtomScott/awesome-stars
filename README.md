@@ -99,7 +99,7 @@
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
 - [sam](https://github.com/davda54/sam) - SAM: Sharpness-Aware Minimization (PyTorch)
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
-- [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
+- [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [TamakEriFever](https://github.com/YuriCat/TamakEriFever) - AI for google research football
