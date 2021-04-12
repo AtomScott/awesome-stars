@@ -152,7 +152,7 @@
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals
-- [openpifpaf](https://github.com/vita-epfl/openpifpaf) - Official implementation of "OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association" in PyTorch.
+- [openpifpaf](https://github.com/openpifpaf/openpifpaf) - Official implementation of "OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association" in PyTorch.
 - [spl](https://github.com/eth-ait/spl) - Structured Prediction Helps 3D Human Motion Modelling - ICCV '19
 - [fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
 - [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
