@@ -21,7 +21,7 @@
 
 ## C++ 
 
-- [cvxpy](https://github.com/cvxgrp/cvxpy) - A Python-embedded modeling language for convex optimization problems.
+- [cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems.
 - [Real-time-Video-Mosaic](https://github.com/jahaniam/Real-time-Video-Mosaic) - An implementation of automatic panorama using OpenCV in C++ and Python
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [lycon](https://github.com/ethereon/lycon) - A minimal and fast image library for Python and C++
