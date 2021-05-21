@@ -100,7 +100,7 @@
 - [goturn-pytorch](https://github.com/nrupatunga/goturn-pytorch) - GOTURN tracking implemented in PyTorch
 - [d3s](https://github.com/alanlukezic/d3s) - D3S - Discriminative Single Shot Segmentation Tracker (CVPR 2020)
 - [model_search](https://github.com/google/model_search) - 
-- [review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) - Review on Object Detection Metrics: 14 object detection metrics including COCO's and PASCAL's metrics. Supporting different bounding box formats.
+- [review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) - Object Detection Metrics. 14 object detection metrics: mean Average Precision (mAP), Average Recall (AR), Spatio-Temporal Tube Average Precision (STT-AP). This project supports different bounding box formats as in COCO, PASCAL, Imagenet, etc.
 - [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) - Most popular metrics used to evaluate object detection algorithms.
 - [loss-landscape](https://github.com/tomgoldstein/loss-landscape) - Code for visualizing the loss landscape of neural nets
 - [RAFT](https://github.com/princeton-vl/RAFT) - 
@@ -186,7 +186,7 @@
 - [Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) - Retinaface get 80.99% in widerface hard val using mobilenet0.25.
 - [pytorch-retinanet](https://github.com/yhenon/pytorch-retinanet) - Pytorch implementation of RetinaNet object detection.
 - [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
-- [facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and recognition (InceptionResnet) models
+- [facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [cvlab_toolbox](https://github.com/ComputerVisionLaboratory/cvlab_toolbox) - CVLAB's tool box
