@@ -14,7 +14,6 @@
   - [MATLAB](#matlab)
   - [Others](#others)
   - [Python](#python)
-  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -35,6 +34,7 @@
 
 - [Awesome-Skeleton-based-Action-Recognition](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition) - Skeleton-based Action Recognition
 - [CVPR2018_Survey](https://github.com/cvpaperchallenge/CVPR2018_Survey) - cvpaper.challenge working repository for surveying all papers of CVPR 2018
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 
 ## JavaScript 
@@ -195,10 +195,6 @@
 - [kaggle](https://github.com/gdb/kaggle) - A collection of Kaggle solutions. Not very polished.
 - [football](https://github.com/google-research/football) - Check out the new game server:
 - [Sportech-Sanity](https://github.com/AtomScott/Sportech-Sanity) - 
-
-## Ruby 
-
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 
 ## Rust 
 
