@@ -6,6 +6,7 @@
 ## Contents
 
   - [C++](#c++)
+  - [CSS](#css)
   - [Dockerfile](#dockerfile)
   - [HTML](#html)
   - [JavaScript](#javascript)
@@ -25,6 +26,10 @@
 - [Real-time-Video-Mosaic](https://github.com/jahaniam/Real-time-Video-Mosaic) - An implementation of automatic panorama using OpenCV in C++ and Python
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [lycon](https://github.com/ethereon/lycon) - A minimal and fast image library for Python and C++
+
+## CSS 
+
+- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 
 ## Dockerfile 
 
@@ -161,7 +166,6 @@
 - [openpifpaf](https://github.com/openpifpaf/openpifpaf) - Official implementation of "OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association" in PyTorch.
 - [spl](https://github.com/eth-ait/spl) - Structured Prediction Helps 3D Human Motion Modelling - ICCV '19
 - [fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
-- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [pytorch-soundnet](https://github.com/keunhong/pytorch-soundnet) - 
 - [Multitask-Emotion-Recognition-with-Incomplete-Labels](https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels) - This is the repository containing the solution for FG-2020 ABAW Competition
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
