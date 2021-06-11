@@ -100,6 +100,7 @@
 
 ## Python 
 
+- [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 - [DeFMO](https://github.com/rozumden/DeFMO) - DeFMO: Deblurring and Shape Recovery of Fast Moving Objects (CVPR 2021)
 - [gpu_dbscan](https://github.com/karthikv2k/gpu_dbscan) - GPU version of DBSCAN using FB's faiss
 - [pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
