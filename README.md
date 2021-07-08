@@ -41,6 +41,7 @@
 - [CVPR2018_Survey](https://github.com/cvpaperchallenge/CVPR2018_Survey) - cvpaper.challenge working repository for surveying all papers of CVPR 2018
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
+- [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 
 ## JavaScript 
 
@@ -73,7 +74,6 @@
 - [flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [Last-Row](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) - Last row tracking data and code
 - [EmoTorch](https://github.com/njcurtis3/EmoTorch) - Project of Facebook Hackathon Contest 2020 in AI Track - PyTorch
-- [notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 
 ## MATLAB 
 
@@ -148,7 +148,7 @@
 - [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [chainerrl](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
-- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [big_transfer](https://github.com/google-research/big_transfer) - Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
