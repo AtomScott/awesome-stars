@@ -187,7 +187,7 @@
 - [mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
 - [jupyter-innotater](https://github.com/ideonate/jupyter-innotater) - Inline data annotator for Jupyter notebooks
 - [handwriting-generation](https://github.com/Grzego/handwriting-generation) - Implementation of handwriting generation with use of recurrent neural networks in tensorflow. Based on Alex Graves paper (https://arxiv.org/abs/1308.0850).
-- [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on PyTorch and MXNet
+- [insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) - Retinaface get 80.99% in widerface hard val using mobilenet0.25.
 - [pytorch-retinanet](https://github.com/yhenon/pytorch-retinanet) - Pytorch implementation of RetinaNet object detection.
 - [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
