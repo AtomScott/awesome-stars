@@ -154,7 +154,7 @@
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [big_transfer](https://github.com/google-research/big_transfer) - Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
 - [HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network
-- [cnn-registration](https://github.com/yzhq97/cnn-registration) - A image registration method using convolutional neural network features.
+- [cnn-registration](https://github.com/yzhq97/cnn-registration) - An image registration method using convolutional neural network features.
 - [sktime-dl](https://github.com/sktime/sktime-dl) - sktime companion package for deep learning based on TensorFlow
 - [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
