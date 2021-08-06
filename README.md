@@ -101,6 +101,7 @@
 
 ## Python 
 
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 - [DeFMO](https://github.com/rozumden/DeFMO) - DeFMO: Deblurring and Shape Recovery of Fast Moving Objects (CVPR 2021)
 - [gpu_dbscan](https://github.com/karthikv2k/gpu_dbscan) - GPU version of DBSCAN using FB's faiss
