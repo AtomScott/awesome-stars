@@ -137,7 +137,7 @@
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
 - [lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) - Real-time 3D multi-person pose estimation demo in PyTorch. OpenVINO backend can be used for fast inference on CPU.
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
-- [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+- [FairMOT](https://github.com/ifzhang/FairMOT) - [IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking
 - [nba-movement-data](https://github.com/sealneaward/nba-movement-data) - SportVU movement tracking data.
 - [trajminer](https://github.com/trajminer/trajminer) - Trajectory Mining Library
 - [mmskeleton](https://github.com/open-mmlab/mmskeleton) - A OpenMMLAB toolbox  for human pose estimation, skeleton-based action recognition, and action synthesis.
