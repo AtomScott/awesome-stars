@@ -176,7 +176,7 @@
 - [lightning-bolts](https://github.com/PyTorchLightning/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
-- [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks
+- [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [demo-self-driving](https://github.com/streamlit/demo-self-driving) - Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.
 - [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
