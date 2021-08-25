@@ -83,6 +83,7 @@
 
 ## Others 
 
+- [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [survey](https://github.com/ComputerVisionLaboratory/survey) - 
 - [awesome-deep-neuroevolution](https://github.com/Alro10/awesome-deep-neuroevolution) - A collection of Deep Neuroevolution resources or evolutionary algorithms applying in Deep Learning (constantly updating)
