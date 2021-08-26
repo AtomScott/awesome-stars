@@ -57,6 +57,7 @@
 
 ## Jupyter Notebook 
 
+- [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [sportsfield_release](https://github.com/vcg-uvic/sportsfield_release) - Code release for WACV 2020, "Optimizing Through Learned Errors for Accurate Sports Field Registration"
 - [revise-tool](https://github.com/princetonvisualai/revise-tool) - REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets --- https://arxiv.org/abs/2004.07999
 - [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
@@ -83,7 +84,6 @@
 
 ## Others 
 
-- [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [survey](https://github.com/ComputerVisionLaboratory/survey) - 
 - [awesome-deep-neuroevolution](https://github.com/Alro10/awesome-deep-neuroevolution) - A collection of Deep Neuroevolution resources or evolutionary algorithms applying in Deep Learning (constantly updating)
@@ -102,6 +102,7 @@
 
 ## Python 
 
+- [ma-gym](https://github.com/koulanurag/ma-gym) - A collection of multi agent environments based on OpenAI gym.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 - [DeFMO](https://github.com/rozumden/DeFMO) - DeFMO: Deblurring and Shape Recovery of Fast Moving Objects (CVPR 2021)
