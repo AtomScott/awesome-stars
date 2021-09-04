@@ -149,7 +149,7 @@
 - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [DE_KFE](https://github.com/kevintab95/DE_KFE) - Key Frame Extraction using Differential Evolution
 - [video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference.
-- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [chainerrl](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
