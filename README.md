@@ -121,7 +121,7 @@
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
-- [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
+- [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [TamakEriFever](https://github.com/YuriCat/TamakEriFever) - AI for google research football
 - [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) - [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
 - [vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
