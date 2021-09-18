@@ -135,7 +135,7 @@
 - [FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [torchdata](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
 - [robust-pca](https://github.com/dganguli/robust-pca) - A simple Python implementation of R-PCA
-- [imutils](https://github.com/jrosebr1/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+- [imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [pyannote-video](https://github.com/pyannote/pyannote-video) - Face detection, tracking and clustering in videos
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
