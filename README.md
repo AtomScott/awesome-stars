@@ -17,6 +17,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
 
@@ -218,6 +219,10 @@
 - [awesome-stars](https://github.com/AtomScott/awesome-stars) - A curated list of my GitHub stars!
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+
+## Swift 
+
+- [soccer-app-ios](https://github.com/Sports-AI-Coaching/soccer-app-ios) - 
 
 ## TeX 
 
