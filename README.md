@@ -104,6 +104,7 @@
 
 ## Python 
 
+- [Video-Dataset-Loading-Pytorch](https://github.com/RaivoKoot/Video-Dataset-Loading-Pytorch) - Generic PyTorch dataset implementation to load and augment VIDEOS for deep learning training loops.
 - [data](https://github.com/pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [yoga-82](https://github.com/maniver7/yoga-82) - Yoga-82 dataset evaluation
 - [ma-gym](https://github.com/koulanurag/ma-gym) - A collection of multi agent environments based on OpenAI gym.
