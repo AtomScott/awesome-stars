@@ -104,6 +104,7 @@
 
 ## Python 
 
+- [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
 - [Video-Dataset-Loading-Pytorch](https://github.com/RaivoKoot/Video-Dataset-Loading-Pytorch) - Generic PyTorch dataset implementation to load and augment VIDEOS for deep learning training loops.
 - [data](https://github.com/pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [yoga-82](https://github.com/maniver7/yoga-82) - Yoga-82 dataset evaluation
