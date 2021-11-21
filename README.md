@@ -110,7 +110,7 @@
 - [yoga-82](https://github.com/maniver7/yoga-82) - Yoga-82 dataset evaluation
 - [ma-gym](https://github.com/koulanurag/ma-gym) - A collection of multi agent environments based on OpenAI gym.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-- [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+- [yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [DeFMO](https://github.com/rozumden/DeFMO) - [CVPR 2021] DeFMO: Deblurring and Shape Recovery of Fast Moving Objects
 - [gpu_dbscan](https://github.com/karthikv2k/gpu_dbscan) - GPU version of DBSCAN using FB's faiss
 - [pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
