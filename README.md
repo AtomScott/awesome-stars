@@ -138,7 +138,7 @@
 - [FractalDB-Pretrained-ResNet-PyTorch](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch) - Pre-training without Natural Images (ACCV 2020 Best Paper Honorable Mention Award)
 - [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool) - 🥧 A tool for removing background from photos with neural networks 🥧
 - [FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
-- [torchdata](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
+- [torchdatasets](https://github.com/szymonmaszke/torchdatasets) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
 - [robust-pca](https://github.com/dganguli/robust-pca) - A simple Python implementation of R-PCA
 - [imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
