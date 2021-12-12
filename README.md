@@ -104,6 +104,8 @@
 
 ## Python 
 
+- [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
+- [torch-foresight](https://github.com/ejmichaud/torch-foresight) - 🧠:mag: Tools for characterizing and predicting the dynamics of neural nets built with PyTorch
 - [ISC21-Descriptor-Track-1st](https://github.com/lyakaap/ISC21-Descriptor-Track-1st) - The 1st Place Solution of the Facebook AI Image Similarity Challenge (ISC21) : Descriptor Track.
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
