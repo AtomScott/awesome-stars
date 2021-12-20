@@ -85,6 +85,7 @@
 
 ## Others 
 
+- [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - A curated, public list collecting resources for biomechanics and human motion: datasets, processing tools,  software for simulation, educational videos, lectures, etc.
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [survey](https://github.com/ComputerVisionLaboratory/survey) - 
@@ -92,7 +93,6 @@
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [awesome-affective-computing](https://github.com/AmrMKayid/awesome-affective-computing) - A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources
-- [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [papers-with-annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations) - Research papers with annotations, illustrations and explanations
 - [Human-Pose-and-Motion](https://github.com/daitomanabe/Human-Pose-and-Motion) - Human-Pose-and-Motion History
 - [awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
