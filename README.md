@@ -13,6 +13,7 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [MATLAB](#matlab)
+  - [Open Policy Agent](#open-policy-agent)
   - [Others](#others)
   - [Python](#python)
   - [Rust](#rust)
@@ -82,6 +83,10 @@
 
 - [MenpoBenchmark](https://github.com/jiankangdeng/MenpoBenchmark) - Multi-pose 2D and 3D Face Alignment & Tracking
 - [BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie) - Betting Strategy to Beat the Bookies at Football Games
+
+## Open Policy Agent 
+
+- [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 
 ## Others 
 
@@ -242,7 +247,6 @@
 - [notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [jupyterlab-kite](https://github.com/kiteco/jupyterlab-kite) - Kite Autocomplete Extension for JupyterLab
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
-- [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
 
 
