@@ -24,6 +24,7 @@
 
 ## C++ 
 
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems.
 - [Real-time-Video-Mosaic](https://github.com/jahaniam/Real-time-Video-Mosaic) - An implementation of automatic panorama using OpenCV in C++ and Python
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
