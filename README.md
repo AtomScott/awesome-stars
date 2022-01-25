@@ -16,7 +16,6 @@
   - [Open Policy Agent](#open-policy-agent)
   - [Others](#others)
   - [Python](#python)
-  - [Rust](#rust)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -99,6 +98,7 @@
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [awesome-affective-computing](https://github.com/AmrMKayid/awesome-affective-computing) - A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources
+- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [papers-with-annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations) - Research papers with annotations, illustrations and explanations
 - [Human-Pose-and-Motion](https://github.com/daitomanabe/Human-Pose-and-Motion) - Human-Pose-and-Motion History
 - [awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
@@ -220,10 +220,6 @@
 - [kaggle](https://github.com/gdb/kaggle) - A collection of Kaggle solutions. Not very polished.
 - [football](https://github.com/google-research/football) - Check out the new game server:
 - [Sportech-Sanity](https://github.com/AtomScott/Sportech-Sanity) - 
-
-## Rust 
-
-- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 ## Shell 
 
