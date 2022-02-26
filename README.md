@@ -110,6 +110,7 @@
 
 ## Python 
 
+- [bounding-box](https://github.com/nalepae/bounding-box) - Bounding Box is a library to plot pretty bounding boxes with a simple Python API.
 - [deepchecks](https://github.com/deepchecks/deepchecks) - Test Suites for Validating ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.
 - [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
 - [torch-foresight](https://github.com/ejmichaud/torch-foresight) - 🧠:mag: Tools for characterizing and predicting the dynamics of neural nets built with PyTorch
