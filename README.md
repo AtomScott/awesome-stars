@@ -59,6 +59,7 @@
 
 ## Jupyter Notebook 
 
+- [blog](https://github.com/daigo0927/blog) - Blog contents
 - [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [sportsfield_release](https://github.com/vcg-uvic/sportsfield_release) - Code release for WACV 2020, "Optimizing Through Learned Errors for Accurate Sports Field Registration"
 - [revise-tool](https://github.com/princetonvisualai/revise-tool) - REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets --- https://arxiv.org/abs/2004.07999
