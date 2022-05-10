@@ -59,6 +59,7 @@
 
 ## Jupyter Notebook 
 
+- [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A module and dataset to conduct tracking in sports (work in progress).
 - [blog](https://github.com/daigo0927/blog) - Blog contents
 - [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [sportsfield_release](https://github.com/vcg-uvic/sportsfield_release) - Code release for WACV 2020, "Optimizing Through Learned Errors for Accurate Sports Field Registration"
