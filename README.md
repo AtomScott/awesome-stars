@@ -149,7 +149,7 @@
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [FractalDB-Pretrained-ResNet-PyTorch](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch) - Pre-training without Natural Images (ACCV 2020 Best Paper Honorable Mention Award)
-- [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool) - 🥧 A tool for removing background from photos with neural networks 🥧
+- [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool) - ✂️ Automated high-quality background removal framework for an image using neural networks. ✂️
 - [FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [torchdatasets](https://github.com/szymonmaszke/torchdatasets) - PyTorch dataset extended with map, cache etc. (tensorflow.data like)
 - [robust-pca](https://github.com/dganguli/robust-pca) - A simple Python implementation of R-PCA
