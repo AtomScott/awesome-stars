@@ -59,7 +59,6 @@
 
 ## Jupyter Notebook 
 
-- [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A module and dataset to conduct tracking in sports (work in progress).
 - [blog](https://github.com/daigo0927/blog) - Blog contents
 - [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [sportsfield_release](https://github.com/vcg-uvic/sportsfield_release) - Code release for WACV 2020, "Optimizing Through Learned Errors for Accurate Sports Field Registration"
@@ -92,6 +91,7 @@
 
 ## Others 
 
+- [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - A curated, public list collecting resources for biomechanics and human motion: datasets, processing tools,  software for simulation, educational videos, lectures, etc.
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
