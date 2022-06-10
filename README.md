@@ -112,6 +112,7 @@
 
 ## Python 
 
+- [multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python
 - [animplotlib](https://github.com/aymenhafeez/animplotlib) - A thin wrapper around the matplotlib FuncAnimation class.
 - [bounding-box](https://github.com/nalepae/bounding-box) - Bounding Box is a library to plot pretty bounding boxes with a simple Python API.
 - [deepchecks](https://github.com/deepchecks/deepchecks) - Test Suites for Validating ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.
