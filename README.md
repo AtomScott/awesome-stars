@@ -142,7 +142,7 @@
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
-- [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
+- [lightning-flash](https://github.com/Lightning-AI/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [TamakEriFever](https://github.com/YuriCat/TamakEriFever) - AI for google research football
 - [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) - [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
 - [vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -196,7 +196,7 @@
 - [Multitask-Emotion-Recognition-with-Incomplete-Labels](https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels) - This is the repository containing the solution for FG-2020 ABAW Competition
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [pfrl](https://github.com/pfnet/pfrl) - PFRL: a PyTorch-based deep reinforcement learning library
-- [lightning-bolts](https://github.com/PyTorchLightning/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
+- [lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
@@ -218,7 +218,7 @@
 - [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [cvlab_toolbox](https://github.com/ComputerVisionLaboratory/cvlab_toolbox) - CVLAB's tool box
 - [sgan](https://github.com/agrimgupta92/sgan) - Code for "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks", Gupta et al, CVPR 2018
 - [coins_grad_check](https://github.com/AtomScott/coins_grad_check) - Coinsの卒業要件を満たしているかどうかをチェックする。
