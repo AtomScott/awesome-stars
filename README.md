@@ -91,6 +91,7 @@
 
 ## Others 
 
+- [trajectory_retrieval](https://github.com/IkumaUchida/trajectory_retrieval) - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
 - [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - A curated, public list collecting resources for biomechanics and human motion: datasets, processing tools,  software for simulation, educational videos, lectures, etc.
