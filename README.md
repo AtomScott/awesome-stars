@@ -113,6 +113,7 @@
 
 ## Python 
 
+- [SportsMOT](https://github.com/MCG-NJU/SportsMOT) - A Large-Scale Multi-Object Tracking Dataset in Sports Scenes
 - [multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python
 - [animplotlib](https://github.com/aymenhafeez/animplotlib) - A thin wrapper around the matplotlib FuncAnimation class.
 - [bounding-box](https://github.com/nalepae/bounding-box) - Bounding Box is a library to plot pretty bounding boxes with a simple Python API.
