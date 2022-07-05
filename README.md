@@ -59,6 +59,7 @@
 
 ## Jupyter Notebook 
 
+- [trajectory_retrieval](https://github.com/IkumaUchida/trajectory_retrieval) - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
 - [blog](https://github.com/daigo0927/blog) - Blog contents
 - [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
 - [sportsfield_release](https://github.com/vcg-uvic/sportsfield_release) - Code release for WACV 2020, "Optimizing Through Learned Errors for Accurate Sports Field Registration"
@@ -91,7 +92,6 @@
 
 ## Others 
 
-- [trajectory_retrieval](https://github.com/IkumaUchida/trajectory_retrieval) - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
 - [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - A curated, public list collecting resources for biomechanics and human motion: datasets, processing tools,  software for simulation, educational videos, lectures, etc.
