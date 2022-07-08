@@ -113,6 +113,7 @@
 
 ## Python 
 
+- [aiaccel](https://github.com/aistairc/aiaccel) - A hyperparameter optimization library for the ABCI.
 - [SportsMOT](https://github.com/MCG-NJU/SportsMOT) - A Large-Scale Multi-Object Tracking Dataset in Sports Scenes
 - [multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python
 - [animplotlib](https://github.com/aymenhafeez/animplotlib) - A thin wrapper around the matplotlib FuncAnimation class.
@@ -220,7 +221,7 @@
 - [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and performance.
 - [cvlab_toolbox](https://github.com/ComputerVisionLaboratory/cvlab_toolbox) - CVLAB's tool box
 - [sgan](https://github.com/agrimgupta92/sgan) - Code for "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks", Gupta et al, CVPR 2018
 - [coins_grad_check](https://github.com/AtomScott/coins_grad_check) - Coinsの卒業要件を満たしているかどうかをチェックする。
