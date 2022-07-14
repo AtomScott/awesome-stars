@@ -113,6 +113,7 @@
 
 ## Python 
 
+- [betty](https://github.com/leopard-ai/betty) - Betty: an automatic differentiation library for generalized meta-learning and multilevel optimization
 - [aiaccel](https://github.com/aistairc/aiaccel) - A hyperparameter optimization library for the ABCI.
 - [SportsMOT](https://github.com/MCG-NJU/SportsMOT) - A Large-Scale Multi-Object Tracking Dataset in Sports Scenes
 - [multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python
