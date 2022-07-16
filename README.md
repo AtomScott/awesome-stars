@@ -113,6 +113,7 @@
 
 ## Python 
 
+- [Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
 - [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [betty](https://github.com/leopard-ai/betty) - Betty: an automatic differentiation library for generalized meta-learning and multilevel optimization
 - [aiaccel](https://github.com/aistairc/aiaccel) - A hyperparameter optimization library for the ABCI.
