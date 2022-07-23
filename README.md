@@ -59,6 +59,7 @@
 
 ## Jupyter Notebook 
 
+- [MiRAI](https://github.com/AtomScott/MiRAI) - 
 - [trajectory_retrieval](https://github.com/IkumaUchida/trajectory_retrieval) - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
 - [blog](https://github.com/daigo0927/blog) - Blog contents
 - [Three_on_one](https://github.com/TsutsuiKazushi/Three_on_one) - for Atom-san
@@ -113,6 +114,7 @@
 
 ## Python 
 
+- [MOTCOM](https://github.com/JoakimHaurum/MOTCOM) - Official PyTorch implementation of MOTCOM: The Multi-Object Tracking Dataset Complexity Metric presented at ECCV 2022
 - [Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
 - [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [betty](https://github.com/leopard-ai/betty) - Betty: an automatic differentiation library for generalized meta-learning and multilevel optimization
