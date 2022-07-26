@@ -114,6 +114,7 @@
 
 ## Python 
 
+- [C-OBSO](https://github.com/keisuke198619/C-OBSO) - 
 - [MOTCOM](https://github.com/JoakimHaurum/MOTCOM) - Official PyTorch implementation of MOTCOM: The Multi-Object Tracking Dataset Complexity Metric presented at ECCV 2022
 - [Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
 - [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
