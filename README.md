@@ -115,6 +115,8 @@
 
 ## Python 
 
+- [focal_segmentation](https://github.com/doiken23/focal_segmentation) - semantic segmentation with focal loss
+- [HRNet-Facial-Landmark-Detection](https://github.com/HRNet/HRNet-Facial-Landmark-Detection) - This is an official implementation of facial landmark detection for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919
 - [C-OBSO](https://github.com/keisuke198619/C-OBSO) - 
 - [MOTCOM](https://github.com/JoakimHaurum/MOTCOM) - Official PyTorch implementation of MOTCOM: The Multi-Object Tracking Dataset Complexity Metric presented at ECCV 2022
 - [Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
