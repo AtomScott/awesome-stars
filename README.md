@@ -60,6 +60,7 @@
 
 ## Jupyter Notebook 
 
+- [Trajectory_Embedding](https://github.com/IkumaUchida/Trajectory_Embedding) - 
 - [MiRAI](https://github.com/AtomScott/MiRAI) - 
 - [trajectory_retrieval](https://github.com/IkumaUchida/trajectory_retrieval) - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
 - [blog](https://github.com/daigo0927/blog) - Blog contents
