@@ -91,7 +91,7 @@
 
 ## Open Policy Agent 
 
-- [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
+- [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 
 ## Others 
 
