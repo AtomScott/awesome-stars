@@ -117,6 +117,7 @@
 
 ## Python 
 
+- [seedir](https://github.com/earnestt1234/seedir) - A Python package for creating, editing, and reading folder tree diagrams
 - [focal_segmentation](https://github.com/doiken23/focal_segmentation) - semantic segmentation with focal loss
 - [HRNet-Facial-Landmark-Detection](https://github.com/HRNet/HRNet-Facial-Landmark-Detection) - This is an official implementation of facial landmark detection for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919
 - [C-OBSO](https://github.com/keisuke198619/C-OBSO) - 
@@ -257,7 +258,7 @@
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [vision-based-prediction](https://github.com/aras62/vision-based-prediction) - Deep Learning for Vision-based Prediction
 - [depthfirstlearning.com](https://github.com/depthfirstlearning/depthfirstlearning.com) - 
-- [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
+- [Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
 
 ## TypeScript 
 
