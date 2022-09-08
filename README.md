@@ -72,7 +72,7 @@
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-- [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
+- [nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [py-subspace](https://github.com/ComputerVisionLaboratory/py-subspace) - A fresh open-(lab)-source repo with various implementations of Subspace Methods, notebook examples and documentation.
 - [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
