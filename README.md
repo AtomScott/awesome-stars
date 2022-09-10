@@ -20,6 +20,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
 
 ## C++ 
 
@@ -265,6 +266,10 @@
 - [notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [jupyterlab-kite](https://github.com/kiteco/jupyterlab-kite) - Kite Autocomplete Extension for JupyterLab
 - [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
+
+## Vue 
+
+- [kaggler-slack-emoji](https://github.com/fkubota/kaggler-slack-emoji) - kagglerが使いそうなslack emojiをまとめたリポジトリだよ。
 
 
 ## License
