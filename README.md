@@ -62,6 +62,7 @@
 ## Jupyter Notebook 
 
 - [Trajectory_Embedding](https://github.com/IkumaUchida/Trajectory_Embedding) - 
+- [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [MiRAI](https://github.com/AtomScott/MiRAI) - 
 - [trajectory_retrieval](https://github.com/IkumaUchida/trajectory_retrieval) - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
 - [blog](https://github.com/daigo0927/blog) - Blog contents
@@ -97,7 +98,6 @@
 ## Others 
 
 - [awesome-sports-camera-calibration](https://github.com/cemunds/awesome-sports-camera-calibration) - A collection of resources on Sports Camera Calibration
-- [SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - A curated, public list collecting resources for biomechanics and human motion: datasets, processing tools,  software for simulation, educational videos, lectures, etc.
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
@@ -118,6 +118,7 @@
 
 ## Python 
 
+- [sharevox_training](https://github.com/SHAREVOX/sharevox_training) - 無料で使える、声を作れるテキスト読み上げソフトウェア、SHAREVOXの音声ライブラリ学習機構
 - [seedir](https://github.com/earnestt1234/seedir) - A Python package for creating, editing, and reading folder tree diagrams
 - [focal_segmentation](https://github.com/doiken23/focal_segmentation) - semantic segmentation with focal loss
 - [HRNet-Facial-Landmark-Detection](https://github.com/HRNet/HRNet-Facial-Landmark-Detection) - This is an official implementation of facial landmark detection for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919
