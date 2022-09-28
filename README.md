@@ -197,7 +197,7 @@
 - [HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network
 - [cnn-registration](https://github.com/yzhq97/cnn-registration) - An image registration method using convolutional neural network features.
 - [sktime-dl](https://github.com/sktime/sktime-dl) - sktime companion package for deep learning based on TensorFlow
-- [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+- [sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
 - [semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation) - Nvidia Semantic Segmentation monorepo
 - [PythonSIFT](https://github.com/rmislam/PythonSIFT) - A clean and concise Python implementation of SIFT (Scale-Invariant Feature Transform)
