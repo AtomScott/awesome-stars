@@ -97,6 +97,7 @@
 
 ## Others 
 
+- [awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) - Resources for Multiple Object Tracking (MOT)
 - [awesome-sports-camera-calibration](https://github.com/cemunds/awesome-sports-camera-calibration) - A collection of resources on Sports Camera Calibration
 - [awesome-sports-analytics](https://github.com/AtomScott/awesome-sports-analytics) - 
 - [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - A curated, public list collecting resources for biomechanics and human motion: datasets, processing tools,  software for simulation, educational videos, lectures, etc.
