@@ -45,7 +45,6 @@
 - [CVPR2018_Survey](https://github.com/cvpaperchallenge/CVPR2018_Survey) - cvpaper.challenge working repository for surveying all papers of CVPR 2018
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
-- [short_notes_on_machine_learning](https://github.com/chrisalbon/short_notes_on_machine_learning) - Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 
 ## JavaScript 
 
